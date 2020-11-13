@@ -31,8 +31,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="beac313a-c738-47fa-af86-8ae73518907e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vector.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MagicClass.php" beforeDir="false" afterPath="$PROJECT_DIR$/MagicClass.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <updated>1605196944346</updated>
       <workItem from="1605196945419" duration="3644000" />
       <workItem from="1605201184575" duration="5000" />
-      <workItem from="1605267526076" duration="3246000" />
+      <workItem from="1605267526076" duration="7620000" />
     </task>
     <servers />
   </component>
@@ -87,10 +88,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="790" y="243" key="NewPhpClassDialog" timestamp="1605196985258">
+    <state x="790" y="243" key="NewPhpClassDialog" timestamp="1605281644750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="790" y="243" key="NewPhpClassDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1605196985258" />
+    <state x="790" y="243" key="NewPhpClassDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1605281644750" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605197022062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
