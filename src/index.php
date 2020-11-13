@@ -10,5 +10,8 @@ $magic->change_age();
 MagicClass::do_something();
 empty($magic->age);
 unset($magic->age);
-
+$magic(2);
+$str = serialize($magic);
+unserialize($str);
+$clone = clone $magic;
 echo ($magic);

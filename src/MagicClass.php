@@ -50,17 +50,10 @@ class MagicClass
     public function __unset($name){
         echo 'unset'.'<br/>';
     }
-    #Данный метод проверят наличие магического метода __sleep.
-    public function __serialize(){
-        echo 'serialize'.'<br/>';
-    }
     #Данный метод вызывается при любой операции сериализации.
     public function __sleep(){
         echo 'sleep'.'<br/>';
-    }
-    #Данный метод проверят наличие магического метода __wakeup.
-    public function __unserialize(){
-        echo 'unserialize'.'<br/>';
+        return array();
     }
     #Данный метод восстанавливает любые ресурсы, которые может иметь объект.
     public function __wakeup(){
